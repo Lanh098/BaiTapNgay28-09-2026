@@ -1,4 +1,4 @@
-package com.example.studentinfo_mssv.model
+package com.example.studentinfo_2415053122123.model
 
 data class Student(
     val studentId: String,
